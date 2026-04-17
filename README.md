@@ -13,29 +13,6 @@ This project was developed as part of the Cyber Shujaa Program – Data and Arti
 - Retrieves relevant context for user queries
 - Generates responses using a Hugging Face language model
 
-# RAG Pipeline Architecture
-
-The system follows this workflow:
-PDF Document
-     ↓
-Text Extraction (PyPDFLoader)
-     ↓
-Text Cleaning
-     ↓
-Document Chunking
-     ↓
-Embedding Generation (Sentence Transformers)
-     ↓
-Vector Storage (FAISS)
-     ↓
-User Query
-     ↓
-Retrieve Relevant Chunks
-     ↓
-Generate Response (FLAN-T5)
-
-This pipeline improves response accuracy because the model uses information retrieved directly from the document rather than relying only on its pre-trained knowledge.
-
 # Technologies Used
 - Python
 - Google Colab
