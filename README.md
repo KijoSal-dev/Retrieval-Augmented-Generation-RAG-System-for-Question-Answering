@@ -25,11 +25,11 @@ This project was developed as part of the Cyber Shujaa Program – Data and Arti
 # Installation
 
 Install the required libraries:
-!pip install langchain
-!pip install sentence-transformers
-!pip install faiss-cpu
-!pip install transformers
-!pip install pypdf
+- !pip install langchain
+- !pip install sentence-transformers
+- !pip install faiss-cpu
+- !pip install transformers
+- !pip install pypdf
 
 # How to Run the Project
 1. Open the notebook in Google Colab
