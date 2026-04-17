@@ -39,9 +39,20 @@ Install the required libraries:
 5. Enter a query to test the RAG system
 
 # Learning Outcomes
-Through this project I gained practical experience with:
+Through this project, I gained practical experience with:
 1. Building a basic Retrieval-Augmented Generation pipeline
 2. Using FAISS for vector similarity search
 3. Generating embeddings with Sentence Transformers
 4. Integrating Hugging Face language models
 5. Processing and chunking documents for AI applications
+
+# Screenshots
+# 1. Document Loading / PDF Processing
+This shows the system successfully loading and reading the PDF.
+
+# 2. Document Chunking
+This proves that the system correctly splits the document into smaller chunks for retrieval.
+
+# 4. Query Example
+This is the most important screenshot because it shows the system working.
+   
