@@ -47,12 +47,17 @@ Through this project, I gained practical experience with:
 5. Processing and chunking documents for AI applications
 
 # Screenshots
-# 1. Document Loading / PDF Processing
+# 1. PDF Processing
 This shows the system successfully loading and reading the PDF.
+
+![PDF Processing](images/PDF_processing.png)
 
 # 2. Document Chunking
 This proves that the system correctly splits the document into smaller chunks for retrieval.
 
-# 4. Query Example
-This is the most important screenshot because it shows the system working.
-   
+![Document chunking](images/Document_Chunking.png)
+
+# 3. Query Example
+This is the most important screenshot because it shows the system working.   
+
+![Query Example](images/Query_Example.png)
