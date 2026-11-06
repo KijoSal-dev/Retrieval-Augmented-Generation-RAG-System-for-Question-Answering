@@ -1,0 +1,61 @@
+Chunk Size,Question ID,Question,Number of Chunks,Retrieval Latency (s),Target Information Match,Keyword Matching Score
+300,1,What was the total area under maize production and its total output in 2024?,1436,0.25408809998771176,False,0.14285714285714285
+300,2,How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?,1436,0.03919460001634434,True,1.0
+300,3,What were the trends in production volume and value for beans from 2020 to 2024?,1436,0.0422209000098519,False,0.42857142857142855
+300,4,What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?,1436,0.19406579999485984,False,0.16666666666666666
+300,5,What was the total production volume for sorghum and millet in 2024?,1436,0.021716400049626827,False,0.16666666666666666
+300,6,How did green grams and cowpeas production shift across the 2020-2024 period?,1436,0.02171740005724132,True,0.6
+300,7,What are the leading categories and total volumes of horticulture exports by destination in 2024?,1436,0.02053049998357892,False,0.42857142857142855
+300,8,What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?,1436,0.2032875000149943,True,0.6666666666666666
+300,9,What was the total area under coffee and summary of direct sales versus auction volumes up to 2023/24?,1436,0.02208749996498227,False,0.16666666666666666
+300,10,What were the smallholder and estate production quantities for made tea and green leaf in 2024?,1436,0.019729299994651228,True,0.5
+300,11,What were the cane deliveries by factory and total sugar production by county in 2024?,1436,0.022524100029841065,False,0.4
+300,12,What are the tracking figures for sisal production summary and quantities by county?,1436,0.019593400007579476,False,0.4
+300,13,What are the seed cotton production yields and lint values recorded between 2020 and 2024?,1436,0.020983700000215322,False,0.0
+300,14,"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",1436,0.021454199973959476,False,0.0
+300,15,What was the total milk production and milk intake recorded by processors from 2020 to 2024?,1436,0.024443099973723292,False,0.3333333333333333
+300,16,What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?,1436,0.02458440000191331,True,0.5714285714285714
+300,17,What are the production dynamics and values of fresh fish species across major water bodies up to 2024?,1436,0.028571499977260828,False,0.3333333333333333
+300,18,What was the total government expenditure in billion KSh allocated specifically to greenhouse subsidies in Nakuru County for 2024?,1436,0.9240966999786906,False,0.0
+300,19,How many tractors were imported directly from Brazil by large-scale wheat farms in Narok during 2023?,1436,0.048166299995500594,True,0.5
+300,20,What was the precise market share percentage held by private agricultural tech startups in the agritech sector in 2024?,1436,0.02277369995135814,True,0.5
+700,1,What was the total area under maize production and its total output in 2024?,560,0.023983500024769455,False,0.14285714285714285
+700,2,How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?,560,0.028733199986163527,True,1.0
+700,3,What were the trends in production volume and value for beans from 2020 to 2024?,560,0.023028899973724037,True,0.5714285714285714
+700,4,What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?,560,0.022936200024560094,False,0.3333333333333333
+700,5,What was the total production volume for sorghum and millet in 2024?,560,0.023336399986874312,False,0.16666666666666666
+700,6,How did green grams and cowpeas production shift across the 2020-2024 period?,560,0.02331590000540018,True,0.6
+700,7,What are the leading categories and total volumes of horticulture exports by destination in 2024?,560,0.019435000023804605,True,0.5714285714285714
+700,8,What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?,560,0.026437400025315583,True,0.6666666666666666
+700,9,What was the total area under coffee and summary of direct sales versus auction volumes up to 2023/24?,560,0.029684600012842566,False,0.3333333333333333
+700,10,What were the smallholder and estate production quantities for made tea and green leaf in 2024?,560,0.03511669998988509,True,0.5
+700,11,What were the cane deliveries by factory and total sugar production by county in 2024?,560,0.030892100010532886,True,0.6
+700,12,What are the tracking figures for sisal production summary and quantities by county?,560,0.031166300002951175,False,0.2
+700,13,What are the seed cotton production yields and lint values recorded between 2020 and 2024?,560,0.024883200007025152,False,0.0
+700,14,"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",560,0.028186500014271587,False,0.0
+700,15,What was the total milk production and milk intake recorded by processors from 2020 to 2024?,560,0.03234330000123009,True,0.5
+700,16,What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?,560,0.024264599953312427,True,0.5714285714285714
+700,17,What are the production dynamics and values of fresh fish species across major water bodies up to 2024?,560,0.025278399989474565,False,0.3333333333333333
+700,18,What was the total government expenditure in billion KSh allocated specifically to greenhouse subsidies in Nakuru County for 2024?,560,0.024600799952168018,True,0.5
+700,19,How many tractors were imported directly from Brazil by large-scale wheat farms in Narok during 2023?,560,0.02777549996972084,True,0.5
+700,20,What was the precise market share percentage held by private agricultural tech startups in the agritech sector in 2024?,560,0.029349299962632358,True,0.5
+1000,1,What was the total area under maize production and its total output in 2024?,418,0.03598960000090301,False,0.42857142857142855
+1000,2,How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?,418,0.030729499994777143,True,1.0
+1000,3,What were the trends in production volume and value for beans from 2020 to 2024?,418,0.023349400027655065,True,0.5714285714285714
+1000,4,What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?,418,0.018530100001953542,False,0.3333333333333333
+1000,5,What was the total production volume for sorghum and millet in 2024?,418,0.020365700009278953,False,0.16666666666666666
+1000,6,How did green grams and cowpeas production shift across the 2020-2024 period?,418,0.02264769998146221,True,0.6
+1000,7,What are the leading categories and total volumes of horticulture exports by destination in 2024?,418,0.022826000000350177,False,0.42857142857142855
+1000,8,What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?,418,0.02919059997657314,True,0.6666666666666666
+1000,9,What was the total area under coffee and summary of direct sales versus auction volumes up to 2023/24?,418,0.0338698000414297,False,0.16666666666666666
+1000,10,What were the smallholder and estate production quantities for made tea and green leaf in 2024?,418,0.024068299971986562,True,0.5
+1000,11,What were the cane deliveries by factory and total sugar production by county in 2024?,418,0.019710900029167533,False,0.4
+1000,12,What are the tracking figures for sisal production summary and quantities by county?,418,0.01932590000797063,True,0.6
+1000,13,What are the seed cotton production yields and lint values recorded between 2020 and 2024?,418,0.024350399966351688,False,0.2
+1000,14,"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",418,0.028667300008237362,False,0.0
+1000,15,What was the total milk production and milk intake recorded by processors from 2020 to 2024?,418,0.029231499996967614,True,0.5
+1000,16,What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?,418,0.027051399985793978,True,0.5714285714285714
+1000,17,What are the production dynamics and values of fresh fish species across major water bodies up to 2024?,418,0.026606299972627312,False,0.3333333333333333
+1000,18,What was the total government expenditure in billion KSh allocated specifically to greenhouse subsidies in Nakuru County for 2024?,418,0.028521200001705438,True,0.5
+1000,19,How many tractors were imported directly from Brazil by large-scale wheat farms in Narok during 2023?,418,0.02833429997554049,True,0.5
+1000,20,What was the precise market share percentage held by private agricultural tech startups in the agritech sector in 2024?,418,0.027974999975413084,True,0.5

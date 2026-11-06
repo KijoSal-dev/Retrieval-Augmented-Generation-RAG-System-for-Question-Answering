@@ -1,0 +1,602 @@
+[
+    {
+        "ID":1,
+        "Question":"What was the total area under maize production and its total output in 2024?",
+        "Ground Truth":"Retrieved from Table 3.2 (Area, Production and Value of Maize)",
+        "Generated Answer":"2,457,025",
+        "Retrieved Pages":[
+            33,
+            32,
+            30
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0647621,
+        "Generation Latency (s)":1.2343491,
+        "Total Latency (s)":1.2991112,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":2,
+        "Question":"How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?",
+        "Ground Truth":"22.5 per cent",
+        "Generated Answer":"22.5 per cent",
+        "Retrieved Pages":[
+            24,
+            13,
+            24
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0628201,
+        "Generation Latency (s)":2.0688986,
+        "Total Latency (s)":2.1317187,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":3,
+        "Question":"What were the trends in production volume and value for beans from 2020 to 2024?",
+        "Ground Truth":"Retrieved from Table 3.10 (Beans Production and Value)",
+        "Generated Answer":"decreased from KSh 88.1 billion in 2023 to KSh 70.4 billion in 2024",
+        "Retrieved Pages":[
+            41,
+            40,
+            43
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0888145,
+        "Generation Latency (s)":3.5711773,
+        "Total Latency (s)":3.6599918,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":4,
+        "Question":"What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?",
+        "Ground Truth":"Retrieved from Tables 3.4 and 3.5 (Rice and Mwea Scheme)",
+        "Generated Answer":"3.3 million hectares",
+        "Retrieved Pages":[
+            35,
+            35,
+            35
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0659786,
+        "Generation Latency (s)":2.8024029,
+        "Total Latency (s)":2.8683815,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":5,
+        "Question":"What was the total production volume for sorghum and millet in 2024?",
+        "Ground Truth":"Retrieved from Tables 3.7 and 3.8 (Millet and Sorghum Production)",
+        "Generated Answer":"138,901",
+        "Retrieved Pages":[
+            38,
+            189,
+            30
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0609218,
+        "Generation Latency (s)":2.7624565,
+        "Total Latency (s)":2.8233782999,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":6,
+        "Question":"How did green grams and cowpeas production shift across the 2020-2024 period?",
+        "Ground Truth":"Retrieved from Tables 3.11 and 3.12",
+        "Generated Answer":"decreased by 55.5 per cent to 117.2 thousand tonnes in 2024",
+        "Retrieved Pages":[
+            45,
+            45,
+            44
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0615954,
+        "Generation Latency (s)":3.1865573,
+        "Total Latency (s)":3.2481527,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":7,
+        "Question":"What are the leading categories and total volumes of horticulture exports by destination in 2024?",
+        "Ground Truth":"Retrieved from Tables 4.10 and 4.11 (Horticulture Exports)",
+        "Generated Answer":"Horticulture exports volumes and values by category",
+        "Retrieved Pages":[
+            53,
+            76,
+            9
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0862439,
+        "Generation Latency (s)":2.7314322,
+        "Total Latency (s)":2.8176761,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":8,
+        "Question":"What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?",
+        "Ground Truth":"Retrieved from Tables 4.5 and 4.6",
+        "Generated Answer":"a decline of 8.6 per cent to KSh 8.4.8 billion",
+        "Retrieved Pages":[
+            65,
+            66,
+            55
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0866378,
+        "Generation Latency (s)":3.5215569,
+        "Total Latency (s)":3.6081947,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":9,
+        "Question":"What was the total area under coffee and summary of direct sales versus auction volumes up to 2023\/24?",
+        "Ground Truth":"Retrieved from Tables 5.1, 5.1.2, and 5.1.3",
+        "Generated Answer":"58",
+        "Retrieved Pages":[
+            84,
+            82,
+            9
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0748081,
+        "Generation Latency (s)":1.3856824,
+        "Total Latency (s)":1.4604905,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":10,
+        "Question":"What were the smallholder and estate production quantities for made tea and green leaf in 2024?",
+        "Ground Truth":"Retrieved from Table 5.2.1(a)",
+        "Generated Answer":"000 (Kgs)",
+        "Retrieved Pages":[
+            87,
+            9,
+            90
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0405105,
+        "Generation Latency (s)":1.1883989,
+        "Total Latency (s)":1.2289094,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":11,
+        "Question":"What were the cane deliveries by factory and total sugar production by county in 2024?",
+        "Ground Truth":"Retrieved from Tables 5.3.1 and 5.3.3",
+        "Generated Answer":"6.6.1 per cent",
+        "Retrieved Pages":[
+            97,
+            95,
+            9
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0373462,
+        "Generation Latency (s)":1.280326,
+        "Total Latency (s)":1.3176722,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":12,
+        "Question":"What are the tracking figures for sisal production summary and quantities by county?",
+        "Ground Truth":"Retrieved from Tables 5.4(a) and 5.4(b)",
+        "Generated Answer":"MT",
+        "Retrieved Pages":[
+            104,
+            8,
+            80
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0343131,
+        "Generation Latency (s)":0.7792827,
+        "Total Latency (s)":0.8135958,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":13,
+        "Question":"What are the seed cotton production yields and lint values recorded between 2020 and 2024?",
+        "Ground Truth":"Retrieved from Tables 5.5(a) and 5.5(b)",
+        "Generated Answer":"3,390 1,300 3,762 3,864 6,234 Yield (Kg\/Ha) 345 122 179 127 153 Seed Cotton Value (KSh Million) 176 65 211 231.57 464",
+        "Retrieved Pages":[
+            110,
+            108,
+            115
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0332599,
+        "Generation Latency (s)":4.2093799,
+        "Total Latency (s)":4.2426398,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":14,
+        "Question":"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",
+        "Ground Truth":"Retrieved from Tables 6.2 and 6.3",
+        "Generated Answer":"Table 6.3",
+        "Retrieved Pages":[
+            10,
+            10,
+            6
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0430693,
+        "Generation Latency (s)":1.2750237,
+        "Total Latency (s)":1.3180929999,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":15,
+        "Question":"What was the total milk production and milk intake recorded by processors from 2020 to 2024?",
+        "Ground Truth":"Retrieved from Table 7.9 (Milk Production and Intake)",
+        "Generated Answer":"5.3 million litres",
+        "Retrieved Pages":[
+            154,
+            155,
+            140
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0301428,
+        "Generation Latency (s)":1.0583374,
+        "Total Latency (s)":1.0884802,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":16,
+        "Question":"What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?",
+        "Ground Truth":"Retrieved from Table 7.11 (Meat Produced and Value)",
+        "Generated Answer":"613.6 thousand kilo- grammes",
+        "Retrieved Pages":[
+            155,
+            156,
+            157
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0376284,
+        "Generation Latency (s)":1.8950793,
+        "Total Latency (s)":1.9327077,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":17,
+        "Question":"What are the production dynamics and values of fresh fish species across major water bodies up to 2024?",
+        "Ground Truth":"Retrieved from Tables 8.2 and 8.3",
+        "Generated Answer":"8.1",
+        "Retrieved Pages":[
+            173,
+            175,
+            10
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":0.0,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0589699,
+        "Generation Latency (s)":1.6103372,
+        "Total Latency (s)":1.6693071,
+        "Unanswerable":false,
+        "Automated Refusal Correct":null,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":18,
+        "Question":"What was the total government expenditure in billion KSh allocated specifically to greenhouse subsidies in Nakuru County for 2024?",
+        "Ground Truth":"Unanswerable \/ Not in report",
+        "Generated Answer":"I cannot find the answer in the provided report.",
+        "Retrieved Pages":[
+            116,
+            101,
+            103
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":null,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0582826,
+        "Generation Latency (s)":0.0411721,
+        "Total Latency (s)":0.0994547,
+        "Unanswerable":true,
+        "Automated Refusal Correct":true,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":19,
+        "Question":"How many tractors were imported directly from Brazil by large-scale wheat farms in Narok during 2023?",
+        "Ground Truth":"Unanswerable \/ Not in report",
+        "Generated Answer":"I cannot find the answer in the provided report.",
+        "Retrieved Pages":[
+            1,
+            182,
+            82
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":null,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0469201,
+        "Generation Latency (s)":0.0430072,
+        "Total Latency (s)":0.0899273,
+        "Unanswerable":true,
+        "Automated Refusal Correct":true,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    },
+    {
+        "ID":20,
+        "Question":"What was the precise market share percentage held by private agricultural tech startups in the agritech sector in 2024?",
+        "Ground Truth":"Unanswerable \/ Not in report",
+        "Generated Answer":"I cannot find the answer in the provided report.",
+        "Retrieved Pages":[
+            39,
+            79,
+            68
+        ],
+        "Retrieved Chunk IDs":[
+            null,
+            null,
+            null
+        ],
+        "Hit Rate @ K":null,
+        "MRR":0.0,
+        "Retrieval Latency (s)":0.0633836,
+        "Generation Latency (s)":0.0644278,
+        "Total Latency (s)":0.1278114,
+        "Unanswerable":true,
+        "Automated Refusal Correct":true,
+        "Human Correctness Score":null,
+        "Faithfulness Score":null,
+        "Answer Relevance Score":null,
+        "Context Relevance Score":null,
+        "Hallucination Detected":null,
+        "Human Refusal Correct":null,
+        "Evaluator Comments":null
+    }
+]

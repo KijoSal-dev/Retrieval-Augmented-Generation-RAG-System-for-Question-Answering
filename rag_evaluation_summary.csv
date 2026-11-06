@@ -1,0 +1,2 @@
+Total Questions,Hit Rate @ K (%),MRR,Average Retrieval Latency (s),Average Generation Latency (s),Average Total Latency (s),Unanswerable Refusal Accuracy (%)
+20,0.0,0.0,0.05682043500128202,1.8354642699938268,1.8922847049951088,100.0

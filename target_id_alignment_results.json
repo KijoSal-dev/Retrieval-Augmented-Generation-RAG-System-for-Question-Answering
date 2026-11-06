@@ -1,0 +1,142 @@
+[
+    {
+        "Question ID":1,
+        "Question":"What was the total area under maize production and its total output in 2024?",
+        "Target Chunk ID":11.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":2,
+        "Question":"How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?",
+        "Target Chunk ID":3.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":3,
+        "Question":"What were the trends in production volume and value for beans from 2020 to 2024?",
+        "Target Chunk ID":18.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":4,
+        "Question":"What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?",
+        "Target Chunk ID":12.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":5,
+        "Question":"What was the total production volume for sorghum and millet in 2024?",
+        "Target Chunk ID":14.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":6,
+        "Question":"How did green grams and cowpeas production shift across the 2020-2024 period?",
+        "Target Chunk ID":21.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":7,
+        "Question":"What are the leading categories and total volumes of horticulture exports by destination in 2024?",
+        "Target Chunk ID":53.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":8,
+        "Question":"What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?",
+        "Target Chunk ID":40.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":9,
+        "Question":"What was the total area under coffee and summary of direct sales versus auction volumes up to 2023\/24?",
+        "Target Chunk ID":57.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":10,
+        "Question":"What were the smallholder and estate production quantities for made tea and green leaf in 2024?",
+        "Target Chunk ID":63.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":11,
+        "Question":"What were the cane deliveries by factory and total sugar production by county in 2024?",
+        "Target Chunk ID":72.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":12,
+        "Question":"What are the tracking figures for sisal production summary and quantities by county?",
+        "Target Chunk ID":78.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":13,
+        "Question":"What are the seed cotton production yields and lint values recorded between 2020 and 2024?",
+        "Target Chunk ID":85.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":14,
+        "Question":"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",
+        "Target Chunk ID":104.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":15,
+        "Question":"What was the total milk production and milk intake recorded by processors from 2020 to 2024?",
+        "Target Chunk ID":131.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":16,
+        "Question":"What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?",
+        "Target Chunk ID":134.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":17,
+        "Question":"What are the production dynamics and values of fresh fish species across major water bodies up to 2024?",
+        "Target Chunk ID":152.0,
+        "Target Exists as PDF Page":true,
+        "Unanswerable":false
+    },
+    {
+        "Question ID":18,
+        "Question":"What was the total government expenditure in billion KSh allocated specifically to greenhouse subsidies in Nakuru County for 2024?",
+        "Target Chunk ID":null,
+        "Target Exists as PDF Page":null,
+        "Unanswerable":true
+    },
+    {
+        "Question ID":19,
+        "Question":"How many tractors were imported directly from Brazil by large-scale wheat farms in Narok during 2023?",
+        "Target Chunk ID":null,
+        "Target Exists as PDF Page":null,
+        "Unanswerable":true
+    },
+    {
+        "Question ID":20,
+        "Question":"What was the precise market share percentage held by private agricultural tech startups in the agritech sector in 2024?",
+        "Target Chunk ID":null,
+        "Target Exists as PDF Page":null,
+        "Unanswerable":true
+    }
+]

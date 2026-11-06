@@ -1,0 +1,4 @@
+Chunk Size,Average_Retrieval_Latency,Matching_Accuracy,Total_Questions,Total_Chunks,Matching Accuracy (%)
+300,0.09979145499819424,0.35,20,1436,35.0
+700,0.026737389995832927,0.6,20,560,60.0
+1000,0.026067044996307232,0.55,20,418,55.00000000000001

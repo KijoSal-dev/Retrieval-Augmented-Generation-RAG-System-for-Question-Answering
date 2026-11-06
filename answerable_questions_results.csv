@@ -1,0 +1,18 @@
+ID,Question,Ground Truth,Generated Answer
+1,What was the total area under maize production and its total output in 2024?,"Retrieved from Table 3.2 (Area, Production and Value of Maize)","2,457,025"
+2,How much did the agricultural sector contribute to Kenya's GDP in 2024 according to the report?,22.5 per cent,22.5 per cent
+3,What were the trends in production volume and value for beans from 2020 to 2024?,Retrieved from Table 3.10 (Beans Production and Value),decreased from KSh 88.1 billion in 2023 to KSh 70.4 billion in 2024
+4,What are the core production figures for rice and the performance of the Mwea Irrigation Scheme?,Retrieved from Tables 3.4 and 3.5 (Rice and Mwea Scheme),3.3 million hectares
+5,What was the total production volume for sorghum and millet in 2024?,Retrieved from Tables 3.7 and 3.8 (Millet and Sorghum Production),"138,901"
+6,How did green grams and cowpeas production shift across the 2020-2024 period?,Retrieved from Tables 3.11 and 3.12,decreased by 55.5 per cent to 117.2 thousand tonnes in 2024
+7,What are the leading categories and total volumes of horticulture exports by destination in 2024?,Retrieved from Tables 4.10 and 4.11 (Horticulture Exports),Horticulture exports volumes and values by category
+8,What is the breakdown of production areas and values for Exotic versus African Leafy Vegetables (ALVs)?,Retrieved from Tables 4.5 and 4.6,a decline of 8.6 per cent to KSh 8.4.8 billion
+9,What was the total area under coffee and summary of direct sales versus auction volumes up to 2023/24?,"Retrieved from Tables 5.1, 5.1.2, and 5.1.3",58
+10,What were the smallholder and estate production quantities for made tea and green leaf in 2024?,Retrieved from Table 5.2.1(a),000 (Kgs)
+11,What were the cane deliveries by factory and total sugar production by county in 2024?,Retrieved from Tables 5.3.1 and 5.3.3,6.6.1 per cent
+12,What are the tracking figures for sisal production summary and quantities by county?,Retrieved from Tables 5.4(a) and 5.4(b),MT
+13,What are the seed cotton production yields and lint values recorded between 2020 and 2024?,Retrieved from Tables 5.5(a) and 5.5(b),"3,390 1,300 3,762 3,864 6,234 Yield (Kg/Ha) 345 122 179 127 153 Seed Cotton Value (KSh Million) 176 65 211 231.57 464"
+14,"What are the area, production, and value numbers for Macadamia and Cashew nuts by county?",Retrieved from Tables 6.2 and 6.3,Table 6.3
+15,What was the total milk production and milk intake recorded by processors from 2020 to 2024?,Retrieved from Table 7.9 (Milk Production and Intake),5.3 million litres
+16,What are the total quantities and estimated values of meat produced from livestock slaughter in 2024?,Retrieved from Table 7.11 (Meat Produced and Value),613.6 thousand kilo- grammes
+17,What are the production dynamics and values of fresh fish species across major water bodies up to 2024?,Retrieved from Tables 8.2 and 8.3,8.1
